@@ -5,3 +5,4 @@ Anastasia Bogdanova - nastiab03@mail.ru
 last line
 Configuration file = cfg/config.txt
 
+Bad line
